@@ -1,0 +1,27 @@
+{
+  "name": "realtimeusertracking",
+  "version": "1.0.0",
+  "description": "#### stack - nodeJs - express - socket.IO - leaflet (An open source js library for interactive maps)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathkumaarr/realTimeUserTracking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharathkumaarr/realTimeUserTracking/issues"
+  },
+  "homepage": "https://github.com/bharathkumaarr/realTimeUserTracking#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.1"
+  }
+}
