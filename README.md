@@ -16,12 +16,12 @@
   
 #### roadmap
 
-- [ ] browser should support geolocation
-- [ ] 5 sec timeout
-- [ ] continous user tracking
-- [ ] emit latitude and longitude coordinates via socket and center accordingly.
-- [ ] errors
-- [ ] map centered (0,0)
-- [ ] update user marker location if user already exists, else create new.
+- [x] browser should support geolocation
+- [x] 5 sec timeout
+- [x] continous user tracking
+- [x] emit latitude and longitude coordinates via socket and center accordingly.
+- [x] errors
+- [x] map centered (0,0)
+- [x] update user marker location if user already exists, else create new.
 
 
